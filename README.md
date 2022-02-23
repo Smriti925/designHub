@@ -1,1 +1,1 @@
-Colourful UI with CSS animation
+Colourful UI with CSS Animation
